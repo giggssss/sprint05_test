@@ -6,3 +6,5 @@ print("Feel free to modify and expand upon this code!")
 print("Happy coding!")
 
 print('Update')
+print('Update 2')
+print('Update 3')
